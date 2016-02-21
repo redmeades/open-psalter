@@ -1,0 +1,12 @@
+---
+title:
+- type: main
+  text: The Open Psalter
+- type: subtitle
+  text: Daily prayers from the Psalms
+creator:
+- role: editor
+  text: Rohan Edmeades
+publisher:
+rights: © 2016 Rohan Edmeades, CC BY-NC
+---
