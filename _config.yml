@@ -1,6 +1,6 @@
 # general configuration
-url: http://redmeades.github.io/open-psalter
-baseurl: ''
+url: http://rohan.rohanandkate.net/open-psalter
+baseurl: '/open-psalter'
 
 # compass configuration
 compass:
